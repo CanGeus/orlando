@@ -7,6 +7,7 @@
     <meta http-equiv="refresh" content="60">
     <title>Parking System</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
